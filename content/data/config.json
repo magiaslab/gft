@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/Un Amore di Cozza Arancio.png"
     },
     "footer": {
         "has_nav": true,
