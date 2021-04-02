@@ -23,7 +23,7 @@ sections:
       background_image: images/fantastic-seascape-with-ripples.jpeg
       background_image_opacity: 1
       background_image_size: auto
-      background_image_repeat: repeat
+      background_image_repeat: no-repeat
   - type: features_section
     title: Features
     features:
