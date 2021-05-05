@@ -20,7 +20,7 @@ sections:
     has_background: true
     background:
       background_color: white
-      background_image: images/1.png
+      background_image: images/fantastic-seascape-with-ripples.jpeg
       background_image_opacity: 100
       background_image_size: cover
       background_image_repeat: no-repeat
