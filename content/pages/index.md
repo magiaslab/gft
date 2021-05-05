@@ -13,7 +13,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    align: center
+    align: left
     image: images/thoughtful-sparrow.png
     image_alt: Hero placeholder image
     image_position: right
