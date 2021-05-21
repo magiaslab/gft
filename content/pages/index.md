@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/thoughtful-sparrow.png
+    image: images/logo definitivo bandiera.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
